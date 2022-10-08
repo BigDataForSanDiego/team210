@@ -5,7 +5,7 @@
 #### Team Name: Lampshades   
   
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### Create a virtual alternative to traditional healthcare services such as appointments, lab work, and diagnosis powered by artificial inteligence/machine learning to expedite turnaround times.
 
 
 #### A visual
@@ -21,7 +21,7 @@
 > Designing Mobile Apps to improve user experience before, during, and after a healthcare visit.
 - [X] Patient experience
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
-- [X] Health Disparities
+- [_] Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
 - [X] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
