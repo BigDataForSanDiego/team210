@@ -5,7 +5,7 @@
 #### Team Name: Lampshades   
   
 #### Your team’s hackathon idea in One sentence:
-##### Create a virtual alternative to traditional healthcare services such as appointments, lab work, and diagnosis powered by artificial inteligence/machine learning to expedite turnaround times.
+##### Create a virtual alternative to traditional healthcare services such as appointments and diagnostics powered by artificial inteligence/machine learning to expedite turnaround times.
 
 
 #### A visual
